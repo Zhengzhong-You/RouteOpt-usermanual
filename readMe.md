@@ -1,8 +1,8 @@
 
-- [Installation](/installation/tmp.md)
-- [Outputs](/outputs/)
-- [Parameters](/parameters/)
-- [Techs](/techs/)
+- [Installation](/installation/installation.md)
+- [Outputs](/outputs/outputs.md)
+- [Parameters](/parameters/parameters.md)
+- [Techs](/techs/techs.md)
 
 # RouteOpt User Manual 🚀
 
