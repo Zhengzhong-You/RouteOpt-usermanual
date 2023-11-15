@@ -1,5 +1,5 @@
 
-- [Installation](/installation/)
+- [Installation](installation/)
 - [Outputs](/outputs/)
 - [Parameters](/parameters/)
 - [Techs](/techs/)
