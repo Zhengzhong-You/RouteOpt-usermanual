@@ -1,4 +1,9 @@
 
+- [Installation](/installation/)
+- [Outputs](/outputs/)
+- [Parameters](/parameters/)
+- [Techs](/techs/)
+
 # RouteOpt User Manual 🚀
 
 Hello everyone,
