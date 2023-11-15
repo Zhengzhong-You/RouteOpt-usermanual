@@ -1,8 +1,8 @@
 
-- [Parameters](/docs/parameters/parameters.md)
-- [Outputs](/docs/outputs/outputs.md)
-- [Installation](/docs/installation/installation.md)
-- [Branching Strategies](/docs/branching_strategies/branching.md)
+- [Parameters](/docs/parameters/)
+- [Outputs](/docs/outputs/)
+- [Installation](/docs/installation/)
+- [Branching Strategies](/docs/branching_strategies/)
 
 # RouteOpt User Manual 🚀
 
