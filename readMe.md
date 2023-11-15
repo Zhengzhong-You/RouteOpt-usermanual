@@ -1,8 +1,8 @@
 
-- [Parameters](/docs/parameters/)
-- [Outputs](/docs/outputs/)
-- [Installation](/docs/installation/)
-- [Techs](/docs/techs/)
+- [Parameters](/parameters/)
+- [Outputs](/outputs/)
+- [Installation](/installation/)
+- [Techs](/techs/)
 
 # RouteOpt User Manual 🚀
 
