@@ -1,5 +1,5 @@
 
-- [Installation](installation/)
+- [Installation](/installation/readMe.md)
 - [Outputs](/outputs/)
 - [Parameters](/parameters/)
 - [Techs](/techs/)
