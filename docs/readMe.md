@@ -2,7 +2,7 @@
 - [Parameters](/docs/parameters/)
 - [Outputs](/docs/outputs/)
 - [Installation](/docs/installation/)
-- [Branching Strategies](/docs/branching_strategies/)
+- [Techs](/docs/techs/)
 
 # RouteOpt User Manual 🚀
 
