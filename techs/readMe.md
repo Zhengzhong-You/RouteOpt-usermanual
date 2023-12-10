@@ -1,38 +1,39 @@
 # Techniques Overview
 
-In RouteOpt, we employ a variety of sophisticated techniques to tackle complex optimization problems effectively. Here's
-a summary of the key techniques utilized:
+In RouteOpt, we employ a range of sophisticated techniques to effectively tackle complex optimization problems. Below is
+a summary of these key techniques:
 
-1. [Enumeration Tree Writing](./branching/readMe.md)
-    - This technique involves solving extremely difficult instances by meticulously writing out enumeration trees. It's
-      a systematic approach where we explore all possible solutions to find the optimal one. This method is particularly
-      useful in scenarios where precision and thoroughness are paramount.
+1. **[Enumeration Tree Writing](./enumeration/readMe.md)**:
+    - This approach involves addressing extremely challenging instances by meticulously constructing enumeration trees.
+      It's a detailed method, especially effective for scenarios demanding high precision and exhaustive exploration of
+      possible solutions.
 
-2. **Branching Strategies**:
-    - Our branching strategies are crucial in navigating the solution space efficiently. By carefully choosing which
-      branches of the solution tree to explore, we can significantly reduce the computational load and quickly converge
-      on the most promising solutions.
+2. **[Branching Strategies](./branching/readMe.md)**:
+    - For insights into this technique, refer to the
+      article [Two-Stage Learning to Branch in Branch-Price-and-Cut Algorithms for Solving Vehicle Routing Problems Exactly](https://www.researchgate.net/publication/374553305_Two-Stage_Learning_to_Branch_in_Branch-Price-and-Cut_Algorithms_for_Solving_Vehicle_Routing_Problems_Exactly).
+      We compare the efficacy of 3PB with machine learning-based approaches. Notably, we have
+      implemented the "best k" procedure within the machine learning-based method, enhancing its effectiveness in making
+      branching decisions.
 
-3. **Heuristic Generation Scheme (HGS)**:
-    - For solving complex Capacitated Vehicle Routing Problems (CVRP), we integrate a heuristic method known as HGS. You
-      can find more information about this approach on our GitHub
-      repository: [HGS-CVRP](https://github.com/vidalt/HGS-CVRP). This method is renowned for its efficiency and
-      effectiveness in generating high-quality solutions in a reasonable time frame.
+3. **[Hybrid Genetic Search (HGS)](./hgs/readMe.md)**:
+    - For complex Capacitated Vehicle Routing Problems (CVRP), we integrate a heuristic method known as HGS. More
+      information about this method can be found on
+      the [HGS-CVRP GitHub repository](https://github.com/vidalt/HGS-CVRP). HGS is well-regarded for its efficiency and
+      ability to generate high-quality solutions within a reasonable timeframe.
 
-4. **Change Dual** (Coming Soon):
-    - We're excited about the upcoming introduction of the 'Change Dual' technique. While details are under wraps, this
-      method promises to bring a fresh perspective to how we handle dual variables in optimization problems. Stay tuned
-      for more updates on this innovative approach.
+4. **[Dual Modification](./dual/readMe.md) (Coming Soon)**:
+    - We are excited about the forthcoming introduction of the 'Dual Modification' technique. Although details are
+      currently confidential, this method is anticipated to offer a novel approach to handling dual solutions in
+      optimization problems. Updates on this innovative technique will be provided as they become available.
 
-5. **DELUXING_APPLIED** (Coming Soon):
-    - Another anticipated feature is 'DELUXING_APPLIED'. This technique is in development and aims to introduce advanced
-      mechanisms to further refine the solution process. We believe it will significantly enhance the efficiency and
-      effectiveness of our optimization strategies.
+5. **[Deluxing](./deluxing/readMe.md) (Coming Soon)**:
+    - 'Deluxing', another technique in development, aims to introduce advanced mechanisms for refining the enumeration
+      process. We believe it will substantially improve both the efficiency and effectiveness of our optimization
+      strategies.
 
-Each of these techniques plays a vital role in making RouteOpt a powerful tool for solving complex optimization
-problems. We're constantly working on improving these techniques and introducing new ones to stay at the forefront of
-optimization technology.
+Each of these techniques contributes significantly to RouteOpt's capability as a powerful tool for solving complex
+optimization problems. We are dedicated to continually enhancing these techniques and introducing new advancements to
+remain at the forefront of optimization technology.
 
-As RouteOpt continues to evolve, we invite our users to stay updated with the latest developments and look forward to
-their valuable feedback and contributions.
-
+As RouteOpt evolves, we encourage our users to stay informed about the latest developments and look forward to their
+valuable feedback and contributions.
