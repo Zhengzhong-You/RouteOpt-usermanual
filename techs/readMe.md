@@ -3,7 +3,7 @@
 In RouteOpt, we employ a variety of sophisticated techniques to tackle complex optimization problems effectively. Here's
 a summary of the key techniques utilized:
 
-1. [Enumeration Tree Writing](/branching/readMe.md)
+1. [Enumeration Tree Writing](./branching/readMe.md)
     - This technique involves solving extremely difficult instances by meticulously writing out enumeration trees. It's
       a systematic approach where we explore all possible solutions to find the optimal one. This method is particularly
       useful in scenarios where precision and thoroughness are paramount.
