@@ -1,7 +1,4 @@
-Here's a revised and enhanced version of the "Outputs" section for your user manual, with added explanations and some
-minor adjustments for clarity and readability:
 
----
 
 # Outputs
 
