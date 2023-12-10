@@ -1,5 +1,3 @@
-
-
 # Outputs
 
 The level of detail in the outputs of RouteOpt is controlled by the `VERBOSE_MODE` parameter in `techniqueControl.hpp`,
