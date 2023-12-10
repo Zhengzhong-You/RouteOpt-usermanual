@@ -1,29 +1,44 @@
-- [Installation](/installation/readMe.md)
-- [Outputs](/outputs/readMe.md)
-- [Parameters](/parameters/readMe.md)
-- [Techs](/techs/readMe.md)
-
 # RouteOpt User Manual 🚀
 
-Hello everyone,
+Welcome to the RouteOpt User Manual. This guide is divided into five main sections, each designed to provide
+comprehensive information and instructions for the RouteOpt. You'll find detailed explanations and guidance in the
+following sections:
 
-I'd like to provide a brief update on the progress of the RouteOpt project.
+- [Installation](/installation/readMe.md): This section covers everything you need to know about getting RouteOpt up and
+  running. From system requirements to step-by-step installation instructions, you'll find all the necessary information
+  to start using RouteOpt effectively.
 
-🔍 **Current Status**: I'm deeply committed and working hard on improving and refining the project. Your feedback and
-patience are much appreciated.
+- [Outputs](/outputs/readMe.md): Here, you'll discover how RouteOpt delivers its results. We'll explore the different
+  types of outputs the software provides, how to interpret them, and tips for maximizing the value you get from these
+  insights.
 
-📅 **Upcoming Release**: I'm excited to announce that I'm aiming to release a comprehensive manual for RouteOpt by **Nov
-18th**. This will provide more detailed guidance, insights, and answer common questions about the project.
+- [Parameters](/parameters/readMe.md): In this part, we delve into the various parameters you can adjust in RouteOpt.
+  Learn how tweaking these settings can influence the software's behavior and output, allowing you to tailor the
+  experience to your specific needs.
 
-💪 **A Small Request**: The development and documentation process is intricate, and while I'm giving it my best, there
-might be unforeseen challenges. I humbly ask for your understanding and patience.
+- [Techs](/techs/readMe.md): This section is dedicated to the underlying technologies and algorithms that power
+  RouteOpt. A must-read for those interested in the technical backbone of the software and how it achieves its
+  optimization tasks.
 
-📬 **Stay Updated**: I'll keep posting updates on this page. Feel free to check back closer to the release date or
-watch/star this repository to stay informed.
+- [FAQ](/faq/readMe.md): Have questions? Check out the Frequently Asked Questions (FAQ) section for quick answers to
+  common queries. This section is regularly updated to reflect the evolving nature of RouteOpt and its user community.
 
-🙏 Thank you so much for your support and interest in RouteOpt. Your enthusiasm is what drives me to make this project
-the best it can be.
+## Continuous Updates and Community Engagement
 
-Best,
+The RouteOpt User Manual is a living document, continually updated, especially with the introduction of new techniques
+and features. Your feedback is invaluable to us, so if you have any questions or suggestions, please feel free to raise
+an issue, and we'll respond promptly.
+
+## Join the RouteOpt Community
+
+We're excited about the growing community around RouteOpt and eagerly anticipate more collaborators joining us in
+development and exploration of potential partnerships. Your support and involvement are what drive RouteOpt's continuous
+improvement and success.
+
+Thank you for choosing and supporting RouteOpt.
+
+Best regards,
 
 Zhengzhong
+
+Email: [you.z@ufl.edu](mailto:you.z@ufl.edu)
