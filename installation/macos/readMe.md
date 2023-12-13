@@ -79,7 +79,7 @@ hgs is a hybrid genetic search algorithm. To compile it:
 
 ```bash
 cd RouteOpt/dependency/hgs      # Navigate to the hgs directory within dependencies
-mkdir build                     # Create a build directory
+mkdir lib                     # Create a build directory
 cmake .                         # Generate make files
 make install                    # Compile and install
 ```
