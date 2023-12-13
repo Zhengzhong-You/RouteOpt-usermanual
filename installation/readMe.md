@@ -6,7 +6,8 @@ of the respective platform.
 
 Select the guide appropriate for your operating system to get started:
 
-- **macOS**: If you're using a Mac, detailed instructions can be found in [macos.md](./macos/readMe.md). The guide covers
+- **macOS**: If you're using a Mac, detailed instructions can be found in [macos.md](./macos/readMe.md). The guide
+  covers
   everything from installing dependencies like Homebrew and LLVM to compiling RouteOpt and its associated libraries.
 
 - **Linux**: For Linux users, the installation process is outlined in [linux.md](./linux/readMe.md). This includes
