@@ -94,6 +94,20 @@ cmake .                         # Generate make files
 make -j$(sysctl -n hw.ncpu)     # Compile using all available cores
 ```
 
+Trouble Shooting: the OpenMP library is not found, change the compiler to the one installed by Homebrew,
+then replace ``cmake .`` with the following command:
+
+```bash
+cmake -DCMAKE_C_COMPILER=/opt/homebrew/opt/llvm/bin/clang -DCMAKE_CXX_COMPILER=/opt/homebrew/opt/llvm/bin/clang++ .
+```
+
+Or, you can add the following lines to your `~/.bashrc`, `~/.zshrc`, or the respective shell configuration file:
+
+```bash
+export CC=/opt/homebrew/opt/llvm/bin/clang
+export CXX=/opt/homebrew/opt/llvm/bin/clang++
+```
+
 After following these steps, RouteOpt and all its dependencies should be compiled and installed on your macOS system. If
 you encounter any issues, ensure that all steps were followed correctly, and check the console output for specific error
 messages that can help in troubleshooting.
